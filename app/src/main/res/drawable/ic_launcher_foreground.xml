@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Shadow background -->
+    <path
+        android:fillColor="#33000000"
+        android:pathData="M34,32 h40 v20 c0,11 -9,20 -20,20 c-11,0 -20,-9 -20,-20 z" />
+    
+    <!-- Golden Trophy Cup Body -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M34,30 h40 v20 c0,11 -9,20 -20,20 c-11,0 -20,-9 -20,-20 z" />
+    
+    <!-- Golden Accent Inside Cup -->
+    <path
+        android:fillColor="#F6E294"
+        android:pathData="M38,34 h32 v14 c0,8.8 -7.2,16 -16,16 c-8.8,0 -16,-7.2 -16,-16 z" />
+
+    <!-- Left Handle -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M34,35 c-6,0 -10,4 -10,10 c0,8 8,10 10,10"
+        android:strokeWidth="4"
+        android:strokeColor="#D4AF37" />
+
+    <!-- Right Handle -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M74,35 c6,0 10,4 10,10 c0,8 -8,10 -10,10"
+        android:strokeWidth="4"
+        android:strokeColor="#D4AF37" />
+
+    <!-- Trophy Stem/Stand -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M51,70 h6 v10 h-6 z" />
+
+    <!-- Trophy Base -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M42,78 h24 v6 h-24 z" />
+    
+    <!-- Shiny Gold Star on top of Trophy -->
+    <path
+        android:fillColor="#F6E294"
+        android:pathData="M54,16 l2,4 l4.5,0.5 l-3.2,3.1 l0.8,4.3 l-4.1,-2.2 l-4.1,2.2 l0.8,-4.3 l-3.2,-3.1 l4.5,-0.5 z" />
+</vector>

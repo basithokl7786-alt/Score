@@ -1,0 +1,6 @@
+{
+  "name": "toppest",
+  "description": "Offline-first Score Board for Malayalam group competitions with a live leaderboard, student management, and premium Royal Blue & Gold poster generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
